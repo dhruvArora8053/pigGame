@@ -97,3 +97,4 @@ btnNew.addEventListener('click', function () {
   activePlayer = 0;
   document.querySelector('.player--0').classList.add('player--active');
 });
+
